@@ -1,0 +1,14 @@
+D:\Faculdade\c++\ProjFilaMedicamento\ProjetoMedicamento\ProjetoMedicamento\bin\Debug\net8.0\ProjetoMedicamento.exe
+D:\Faculdade\c++\ProjFilaMedicamento\ProjetoMedicamento\ProjetoMedicamento\bin\Debug\net8.0\ProjetoMedicamento.deps.json
+D:\Faculdade\c++\ProjFilaMedicamento\ProjetoMedicamento\ProjetoMedicamento\bin\Debug\net8.0\ProjetoMedicamento.runtimeconfig.json
+D:\Faculdade\c++\ProjFilaMedicamento\ProjetoMedicamento\ProjetoMedicamento\bin\Debug\net8.0\ProjetoMedicamento.dll
+D:\Faculdade\c++\ProjFilaMedicamento\ProjetoMedicamento\ProjetoMedicamento\bin\Debug\net8.0\ProjetoMedicamento.pdb
+D:\Faculdade\c++\ProjFilaMedicamento\ProjetoMedicamento\ProjetoMedicamento\obj\Debug\net8.0\ProjetoMedicamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\c++\ProjFilaMedicamento\ProjetoMedicamento\ProjetoMedicamento\obj\Debug\net8.0\ProjetoMedicamento.AssemblyInfoInputs.cache
+D:\Faculdade\c++\ProjFilaMedicamento\ProjetoMedicamento\ProjetoMedicamento\obj\Debug\net8.0\ProjetoMedicamento.AssemblyInfo.cs
+D:\Faculdade\c++\ProjFilaMedicamento\ProjetoMedicamento\ProjetoMedicamento\obj\Debug\net8.0\ProjetoMedicamento.csproj.CoreCompileInputs.cache
+D:\Faculdade\c++\ProjFilaMedicamento\ProjetoMedicamento\ProjetoMedicamento\obj\Debug\net8.0\ProjetoMedicamento.dll
+D:\Faculdade\c++\ProjFilaMedicamento\ProjetoMedicamento\ProjetoMedicamento\obj\Debug\net8.0\refint\ProjetoMedicamento.dll
+D:\Faculdade\c++\ProjFilaMedicamento\ProjetoMedicamento\ProjetoMedicamento\obj\Debug\net8.0\ProjetoMedicamento.pdb
+D:\Faculdade\c++\ProjFilaMedicamento\ProjetoMedicamento\ProjetoMedicamento\obj\Debug\net8.0\ProjetoMedicamento.genruntimeconfig.cache
+D:\Faculdade\c++\ProjFilaMedicamento\ProjetoMedicamento\ProjetoMedicamento\obj\Debug\net8.0\ref\ProjetoMedicamento.dll
